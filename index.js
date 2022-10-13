@@ -17,5 +17,6 @@ function generatePass(){
     passDuos.textContent=password2
 
 }
-    console.log(generatePass())
+    
     generatePass()
+
